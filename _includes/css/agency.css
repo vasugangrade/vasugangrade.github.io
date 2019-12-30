@@ -48,7 +48,7 @@ a.active {
 
 
 .popupTitle{
-    text-transform: none;   
+    text-transform: none;
     font-weight: 700;
     font-family: {{ site.data.template.font.primary }};
 }
@@ -70,7 +70,7 @@ h2{
 }
 
 .resume {
-    background-color: #FED136;
+    background-color: #0ec5fa;
     border: none;
     color: white;
     padding: 12px 30px;
@@ -328,7 +328,7 @@ header .intro-text .intro-heading {
 }
 header .intro-tagline {
     margin-bottom: 25px;
-    color: #FED136;
+    color: #0ec5fa;
     font-family: {{ site.data.template.font.primary }};
     font-size: 50px;
     font-weight: 700;
@@ -338,7 +338,7 @@ header .intro-tagline {
 
 header .intro-tagline2 {
     margin-bottom: 25px;
-    color: #FED136;
+    color: #0ec5fa;
     font-family: {{ site.data.template.font.primary }};
     font-size: 35px;
     font-weight: 500;
