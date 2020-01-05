@@ -1,6 +1,6 @@
 ---
-title: Neural Networks Compression
-popupTitle: Compression of Neural Networks with Gaussian Mixture Priors
+title: Gas Well
+popupTitle: Gas Well  
 subtitle: Machine Learning
 layout: default
 modal-id: 6
@@ -13,5 +13,5 @@ client: Start Bootstrap
 category: Machine Learning
 github: Latest Release
 link: https://github.com/yashgangrade09/Compression-of-Neural-Networks.git
-description: Developed and modified the famous paper on Soft Weight Sharing for Neural Net Compression with the aim to store multi- million parameter network on small devices like phones. Tested on MNIST dataset and found similar results to original implementation. 
+description: Developed and modified the famous paper on Soft Weight Sharing for Neural Net Compression with the aim to store multi- million parameter network on small devices like phones. Tested on MNIST dataset and found similar results to original implementation.
 ---

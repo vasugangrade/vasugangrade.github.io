@@ -1,6 +1,6 @@
 ---
-title: OpenSpace 3D
-popupTitle: Transfer functions for OpenSpace 3D touch tool
+title: Mine Ventilation
+popupTitle: Mine Ventilation
 subtitle: Data Analysis
 layout: default
 modal-id: 3

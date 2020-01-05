@@ -1,6 +1,6 @@
 ---
-title: SimpleDB
-popupTitle: Development of a Novel Database system - SimpleDB
+title: Atmospheric Monitoring
+popupTitle: Atmospheric Monitoring
 subtitle: Database Development
 layout: default
 modal-id: 2

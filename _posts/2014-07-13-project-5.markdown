@@ -1,6 +1,6 @@
 ---
-title: Cognitive Radio
-popupTitle: Distributed Learning and Adaptation in Cognitive Radio
+title: Respirable Contaminant
+popupTitle: Respirable Contaminant
 subtitle: Distributed Learning
 layout: default
 modal-id: 5
