@@ -44,16 +44,16 @@ people:
 
 groups:
 - name: Pittsburgh Coal Mining Institute for America
-  pic: aries
+  pic: pcmia
   position: Board of Director
   social:
     - title: facebook
       url: https://www.facebook.com/groups/ariesiitr/
     - title: globe
-      url: http://ariesiitr.com/
+      url: http://miningorganizations.org/
 
 - name: Society of Mining, Metallurgy & Exploration
-  pic: aries
+  pic: sme
   position: Executive Secretary, Young Leaders Committee
   social:
     - title: facebook
@@ -62,7 +62,7 @@ groups:
       url: http://ariesiitr.com/
 
 - name: Emerging Leaders Alliance
-  pic: ieee
+  pic: emerging
   position: Recognized Young Leader
   social:
     - title: facebook
