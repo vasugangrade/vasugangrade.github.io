@@ -70,6 +70,42 @@ groups:
     - title: globe
       url: http://www.ieeeiitr.com/
 
+honors:
+- name: Young Leader Award
+  pic: aries
+  position: Emerging Leaders Alliance
+  social:
+    - title: facebook
+      url: https://www.facebook.com/groups/ariesiitr/
+    - title: globe
+      url: http://ariesiitr.com/
+
+- name: Excellence in Government Award (EEO Diversity & Inclusion)
+  pic: aries
+  position: Pittsburgh Federal Executive Board, CDC
+  social:
+    - title: facebook
+      url: https://www.facebook.com/groups/ariesiitr/
+    - title: globe
+      url: http://ariesiitr.com/
+
+- name: CDC NIOSH Diversity Star Award
+  pic: aries
+  position: Federal Executive Board, NIOSH
+  social:
+    - title: facebook
+      url: https://www.facebook.com/groups/ariesiitr/
+    - title: globe
+      url: http://ariesiitr.com/
+
+- name: Design Award
+  pic: aries
+  position: Government of India
+  social:
+    - title: facebook
+      url: https://www.facebook.com/groups/ariesiitr/
+    - title: globe
+      url: http://ariesiitr.com/
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
