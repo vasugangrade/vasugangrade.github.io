@@ -1,6 +1,6 @@
 ---
 title: Limestone Mining
-popupTitle: Limestone Mining
+popupTitle: Underground Stone Mine Pillar Design in Challenging Conditions
 subtitle: Machine Learning
 layout: default
 modal-id: 4
@@ -12,6 +12,7 @@ project-date: Aug 2017 - Dec 2017
 client: Start Bootstrap
 category: Machine Learning
 github: Latest Release
-link: https://github.com/yashgangrade09/Local-Linear-Ensembles.git
-description: Built a system which utilizes a combination of multiple Linear Classifiers to classify N-Dimensional spatial data. Classification accuracies improved by 5-20 percent as compared to a single classifier.
+project: Limstone Mining
+link: https://www.cdc.gov/niosh/mining/researchprogram/projects/project_UndergroundStoneMinePillaDesigninChallengingConditions.html
+description: Underground Stone Mine Pillar Design in Challenging Conditions
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gas Well
-popupTitle: Gas Well  
+popupTitle: Stability Evaluation of Active Gas Wells in Longwall Abutment Pillars.
 subtitle: Machine Learning
 layout: default
 modal-id: 6

@@ -1,6 +1,6 @@
 ---
 title: Atmospheric Monitoring
-popupTitle: Atmospheric Monitoring
+popupTitle: Utilization of Booster Fans in Underground Coal Mines
 subtitle: Database Development
 layout: default
 modal-id: 2
@@ -12,6 +12,7 @@ project-date: Sept 2018 - Dec 2018
 client: Start Bootstrap
 category: Database Development
 github: Latest Release
-link: https://github.com/spence521/SimpleDB.git
-description: Working on creating a novel Database System from scratch. Implementing support modules like Buffer Management Engine, Disk Based Bplus tree indexing engine, query optimizers, support for join, union etc. Implementation in Java.
+project: Atmospheric Monitoring
+link: https://www.cdc.gov/niosh/mining/researchprogram/contracts/contract_200-2009-30328.html
+description: Utilization of Booster Fans in Underground Coal Mines
 ---

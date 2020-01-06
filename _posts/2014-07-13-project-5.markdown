@@ -1,6 +1,6 @@
 ---
 title: Respirable Contaminant
-popupTitle: Respirable Contaminant
+popupTitle: Improving Mine Ventilation and Reducing Contaminant Exposure in Large-Opening Stone Mines
 subtitle: Distributed Learning
 layout: default
 modal-id: 5
@@ -12,6 +12,6 @@ project-date: Apr 2016 - Apr 2017
 client: Start Bootstrap
 category: Distributed Learning
 github: Latest Release
-link: https://github.com/yashgangrade09/Compression-of-Neural-Networks.git
+project: Respirable
 description: Improving Mine Ventilation and Reducing Contaminant Exposure in Large-Opening Stone Mines
 ---
