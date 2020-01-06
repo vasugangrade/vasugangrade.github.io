@@ -6,13 +6,13 @@ layout: default
 modal-id: 6
 date: 2014-07-15
 img: gaswell.jpg
-thumbnail: roundicons-thumbnail.png
+thumbnail: gaswellthumb.PNG
 alt: image-alt
 project-date: Jan 2018 - Apr 2018
 client: Start Bootstrap
 category: Machine Learning
 github: Latest Release
-link: https://github.com/yashgangrade09/Compression-of-Neural-Networks.git
-description: Stability Evaluation of Active Gas Wells in Longwall Abutment Pillars. Please find the project links <a href="https://www.cdc.gov/niosh/mining/researchprogram/projects/project_StabilityEvaluationofActiveGasWellsinLongwallAbutmentPillars.html" target="_blank">here</a>
-Publication
+project: Gas Well CDC
+link: https://www.cdc.gov/niosh/mining/researchprogram/projects/project_StabilityEvaluationofActiveGasWellsinLongwallAbutmentPillars.html
+description: Stability Evaluation of Active Gas Wells in Longwall Abutment Pillars.
 ---
