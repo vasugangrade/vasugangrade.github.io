@@ -12,6 +12,6 @@ project-date: Apr 2016 - Apr 2017
 client: Start Bootstrap
 category: Distributed Learning
 github: Latest Release
-project: Respirable
+project: Respirable Contaminant
 description: Improving Mine Ventilation and Reducing Contaminant Exposure in Large-Opening Stone Mines
 ---
