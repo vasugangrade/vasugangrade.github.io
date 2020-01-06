@@ -6,7 +6,7 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 img: lle.png
-thumbnail: roundicons-thumbnail.png
+thumbnail: lle.png
 alt: image-alt
 project-date: Aug 2017 - Dec 2017
 client: Start Bootstrap

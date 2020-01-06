@@ -5,8 +5,8 @@ subtitle: Distributed Learning
 layout: default
 modal-id: 5
 date: 2014-07-15
-img: respirable.png
-thumbnail: distributedThumb.png
+img: respirable.jpg
+thumbnail: respirablethumb.PNG
 alt: image-alt
 project-date: Apr 2016 - Apr 2017
 client: Start Bootstrap
