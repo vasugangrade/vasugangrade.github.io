@@ -5,8 +5,8 @@ subtitle: Database Development
 layout: default
 modal-id: 2
 date: 2014-07-15
-img: simpledb.png
-thumbnail: simpledb.png
+img: atmosphere.jpg
+thumbnail: atmospherethumb.PNG
 alt: image-alt
 project-date: Sept 2018 - Dec 2018
 client: Start Bootstrap
