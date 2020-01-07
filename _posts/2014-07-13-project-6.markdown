@@ -1,6 +1,6 @@
 ---
 title: Gas Well
-popupTitle: Stability Evaluation of Active Gas Wells in Longwall Abutment Pillars.
+popupTitle: Stability Evaluation of Active Gas Wells in Longwall Abutment Pillars
 subtitle: Machine Learning
 layout: default
 modal-id: 6
@@ -15,4 +15,6 @@ github: Latest Release
 project: Gas Well CDC
 link: https://www.cdc.gov/niosh/mining/researchprogram/projects/project_StabilityEvaluationofActiveGasWellsinLongwallAbutmentPillars.html
 description: Stability Evaluation of Active Gas Wells in Longwall Abutment Pillars.
+publication1: Watkins, E., Gangrade, V., Schatzel, S.J. [2020] Permeability Determination for Potential Interaction between Shale Gas Wells and the Coal Mine Environment due to Longwall-induced Deformations. In: proceedings of the Society of Mining, Metallurgy & Exploration Annual Conference. Phoenix, AZ: Feb 24-27
+publication2: Schatzel, S.J., Su, D.W.H., Gangrade, V., Zhang, P. [2020] Evaluation of permeability and transport characteristics formed by the induced fracture network around gas wells drilled through longwall abutment pillars. In: proceedings of the Society of Mining, Metallurgy & Exploration Annual Conference. Phoenix, AZ: Feb 24-27
 ---
