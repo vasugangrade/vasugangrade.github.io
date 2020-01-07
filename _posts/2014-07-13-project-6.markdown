@@ -15,5 +15,4 @@ github: Latest Release
 project: Gas Well CDC
 link: https://www.cdc.gov/niosh/mining/researchprogram/projects/project_StabilityEvaluationofActiveGasWellsinLongwallAbutmentPillars.html
 description: Stability Evaluation of Active Gas Wells in Longwall Abutment Pillars.
-publication1: Watkins, E., Gangrade, V., Schatzel, S.J. [2020] Permeability Determination for Potential Interaction between Shale Gas Wells and the Coal Mine Environment due to Longwall-induced Deformations. In: proceedings of the Society of Mining, Metallurgy & Exploration Annual Conference. Phoenix, AZ: Feb 24-27
 ---
