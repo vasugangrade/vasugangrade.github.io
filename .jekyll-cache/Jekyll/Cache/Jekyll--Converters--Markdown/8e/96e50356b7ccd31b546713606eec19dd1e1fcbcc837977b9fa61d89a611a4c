@@ -1,0 +1,2 @@
+I"<p>Developed and modified the famous paper on Soft Weight Sharing for Neural Net Compression with the aim to store multi- million parameter network on small devices like phones. Tested on MNIST dataset and found similar results to original implementation.</p>
+:ET

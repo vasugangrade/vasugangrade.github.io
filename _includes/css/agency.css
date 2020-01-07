@@ -259,9 +259,10 @@ fieldset[disabled] .btn-xl.active {
 
 @media(min-width:768px) {
     .navbar-default {
-        padding: 25px 0;
+        padding: 20px 0;
         border: 0;
-        background-color: transparent;
+        /* background-color: transparent; */
+        background-color: #222;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -294,7 +295,8 @@ header {
     background-attachment: scroll;
     /*background-image: url('{{ site.baseurl }}/img/header-bg.jpg');*/
     background-color: rgba(0,0,0,0.7);
-    background-image: url('{{ site.baseurl }}/img/vasu6.jpg');
+    background-image: url('{{ site.baseurl }}/img/vasu6_blur.jpg');
+    /* backdrop-filter: blur(5px); */
     /* background-image: url('{{ site.baseurl }}/img/IMG_4234.jpg'); */
     background-position: center center;
     background-repeat: none;
@@ -339,11 +341,11 @@ header .intro-tagline {
 
 header .intro-tagline2 {
     margin-bottom: 25px;
-    color: #0ec5fa;
+    color: #e7edee;
     font-family: {{ site.data.template.font.primary }};
     font-size: 35px;
     font-weight: 500;
-    text-shadow: 1px 1px 4px #000000;
+    text-shadow: 3px 3px 2px #000000;
     line-height: 35px;
 }
 
