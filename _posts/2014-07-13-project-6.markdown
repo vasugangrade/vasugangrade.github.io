@@ -15,4 +15,8 @@ github: Latest Release
 project: Gas Well CDC
 link: https://www.cdc.gov/niosh/mining/researchprogram/projects/project_StabilityEvaluationofActiveGasWellsinLongwallAbutmentPillars.html
 description: Stability Evaluation of Active Gas Wells in Longwall Abutment Pillars.
+publication1: "- Watkins, E., Gangrade, V., Schatzel, S.J. [2020] Permeability Determination for Potential Interaction between Shale Gas Wells and the Coal Mine Environment due to Longwall-induced Deformations. In: proceedings of the Society of Mining, Metallurgy & Exploration Annual Conference. Phoenix, AZ: Feb 24-27"
+publication2: "- Schatzel, S.J., Su, D.W.H., Gangrade, V., Zhang, P. [2020] Evaluation of permeability and transport characteristics formed by the induced fracture network around gas wells drilled through longwall abutment pillars. In: proceedings of the Society of Mining, Metallurgy & Exploration Annual Conference. Phoenix, AZ: Feb 24-27"
+publication3: "- Su, D.W.H., Schatzel, S.J., Gangrade, V., Zhang, P. [2019] Longwall-Induced Subsurface Deformations and Permeability Changes-Shale Gas Well Casing Integrity Implication. In Proceedings of the 38th International Conference for Ground Control in Mining, Morgantown, WV, July 23–25."
+publication4: "- Su, D.W.H., Schatzel, S.J., Gangrade, V., Zhang, P. [2019] Effects of Longwall-Induced Subsurface Deformations and Permeability Changes on Shale Gas Well Integrity and Safety Under Shallow Cover. In Proceedings of the 53rd US Rock Mechanics/Geomechanics Symposium. American Rock Mechanics Association, New York, NY, June 23–26."
 ---

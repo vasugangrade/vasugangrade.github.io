@@ -15,4 +15,7 @@ github: Latest Release
 project: Atmospheric Monitoring
 link: https://www.cdc.gov/niosh/mining/researchprogram/contracts/contract_200-2009-30328.html
 description: Utilization of Booster Fans in Underground Coal Mines
+publication1: "- Gangrade, V., Calizaya, F., Nelson, M.G. [2015]. Monitoring Systems for Utilization of Booster Fans. Application of Computers and Operations Research in the Mineral Industry, Fairbanks, AK, May 23–27 "
+publication2: "- Gangrade, V. [2014]. Monitoring Systems for Coal Mines Utilizing Booster Fans. Master of Science Thesis, University of Utah. "
+publication3: "- Gangrade, V., Calizaya, F., Nelson, M.G. [2013]. Use of a CO2 Gas Injection System in a Laboratory Model to Study Controlled Recirculation. In Proceedings of the 30th International Symposium on Automation and Robotics in Construction and Mining, Montréal, Canada, August 11–15. ISBN: 978–1–926872–16–2 "
 ---

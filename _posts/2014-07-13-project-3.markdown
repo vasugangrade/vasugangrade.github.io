@@ -15,4 +15,11 @@ github: Latest Release
 project: Mine ventilation
 link: https://www.cdc.gov/niosh/mining/researchprogram/projects/project_2014_927ZLDT.html
 description: Ventilation of Longwall Faces
+publication1: "- Gangrade, V. and Schatzel, S.J. [2020] Longwall Ventilation Field Studies: A Comparison of Bleeder and Bleederless Systems. In: proceedings of the Society of Mining, Metallurgy & Exploration Annual Conference. Phoenix, AZ: Feb 24-27"
+publication2: "- Gangrade, V., Schatzel, S.J., Harteis, S.P. [2019] A Field Study of Longwall Mine Ventilation Using Tracer Gas in a Trona Mine. Springer Mining, Metallurgy & Exploration. ISSN: 2524-3462."
+publication3: "- Gangrade, V., Schatzel, S.J., Harteis, S.P., Addis, J.D. [2019] Investigating the Impact of Caving on Longwall Mine Ventilation Using Scaled Physical Modeling. Springer Mining, Metallurgy & Exploration. 2019 Aug;36(4):729-740. "
+publication4: "- Schatzel, S.J., Gangrade, V., Hollerich, C.A., Addis, J.D., Chasko, L.L. [2019] Face Ventilation on a Bleederless Longwall Panel. Springer Mining, Metallurgy & Exploration."
+publication5: "- Gangrade V., Harteis S.P., Addis J.D., [2018]. Studying Longwall Ventilation with Physical Modeling. Coal Age Magazine. Vol. 123 No. 6. pp. 38-39."
+publication6: "- Gangrade V, Harteis S.P., Addis J.D. [2017]. Development and Applications of a Scaled Aerodynamic Model for Simulations of Airflow in a Longwall Panel. In: proceedings of the 16th North American Mine Ventilation Symposium. Golden, CO: Colorado School of Mines. pp. 6-17–6-24."
+publication7: "- Schatzel S.J., Gangrade V., Hollerich C.A., Addis J.D., Chasko L.L., [2017]. Tracer gas study to determine face ventilation air and gob gas movement patterns on a bleederless longwall panel. 2017 SME Annual Meeting and Exhibit, Denver, CO, February 19–22, 2017, Pre-print 17-137."
 ---

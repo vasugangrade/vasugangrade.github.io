@@ -15,4 +15,6 @@ github: Latest Release
 project: Limstone Mining
 link: https://www.cdc.gov/niosh/mining/researchprogram/projects/project_UndergroundStoneMinePillaDesigninChallengingConditions.html
 description: Underground Stone Mine Pillar Design in Challenging Conditions
+publication1: "- Gangrade, V., Slaker, B., Collins, D., Braganza, S., Winfield, J. [2019] Investigating Seismicity Surrounding an Excavation Boundary in a Highly Stressed Dipping Underground Limestone Mine. In Proceedings of the 38th International Conference for Ground Control in Mining, Morgantown, WV, July 23–25."
+publication2: "- Slaker B., Gangrade V., Murphy M, Winfield J., [2018]. Seismic Data Interpretation of a Development Pillar at a Steeply Dipping Underground Limestone Mine. 52nd US Rock Mechanics / Geomechanics Symposium, American Rock Mechanics Association, Seattle, WA. June 17–20."
 ---
